@@ -13,9 +13,7 @@ This project is a simple web application built with React and Tailwind CSS that 
 - Responsive design for seamless usage across devices.
 - "Copy Quote" button to easily copy the displayed quote to the clipboard.
 
-## Demo
 
-![Demo](demo.gif)
 
 ## Installation
 
