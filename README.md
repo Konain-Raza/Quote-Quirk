@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/icon.png" alt="Icon" width="100">
+  <img src="icon.png" alt="Icon" width="100">
 </div>
 
 # Random Quotes Generator
@@ -46,6 +46,10 @@ This project is a simple web application built with React and Tailwind CSS that 
 - Select one or more categories from the dropdown menu.
 - Click on the "Generate Quote" button to fetch and display a random quote based on the selected categories.
 - Click on the "Copy Quote" button to copy the displayed quote to the clipboard.
+
+## Deployed Website
+
+The project is deployed and can be accessed [here](https://randomquotes-generator.vercel.app/).
 
 ## Technologies Used
 
