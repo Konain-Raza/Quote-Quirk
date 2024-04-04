@@ -2,7 +2,7 @@
   <img src="icon.png" alt="Icon" width="100">
 </div>
 
-# Random Quotes Generator
+# Quote Quirk
 
 This project is a simple web application built with React and Tailwind CSS that generates random quotes based on user-selected categories. It utilizes the [Quotes API](https://api-ninjas.com/api/quotes) to fetch quotes dynamically.
 
