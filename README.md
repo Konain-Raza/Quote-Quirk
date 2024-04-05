@@ -19,7 +19,7 @@ This project is a simple web application built with React and Tailwind CSS that 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/random-quotes-generator.git
+    git clone https://github.com/Konain-Raza/Quote-Quirk.git
     ```
 
 2. **Navigate to the project directory:**
