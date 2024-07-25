@@ -31,7 +31,7 @@ Getting Quote Quirk up and running is a breeze:
 
 ### WordPress Plugin:
 
-1. **Download**: Grab the plugin **[here](https://www.mediafire.com/file/36tvbtza60ultqv/QuoteQuirk.zip/file)**. 📥 
+1. **Download**: Grab the plugin **[here](https://www.mediafire.com/file/bqqh5cbe2gz5m8k/QuoteQuirk.zip/file)**. 📥 
 2. **Install**: Upload the plugin to your WordPress site and activate it. 🛠️  
 3. **Configure**: Follow the simple instructions to start displaying quotes on your site. 📝  
 
