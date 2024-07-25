@@ -1,6 +1,7 @@
 <div align="center">
   <img src="icon.png" alt="Icon" width="100">
 </div>
+
 # Quote Quirk: Unleash the Wisdom! 📚✨
 
 Ever wished you had a magic lamp that could summon the perfect quote at the perfect moment? 🪄✨ Say hello to **Quote Quirk**—your ultimate destination for inspiration, wisdom, and a sprinkle of humor! With its sleek React and Tailwind CSS build, Quote Quirk pulls quotes from the Quotes API to give you a daily dose of motivation and amusement. And, just to make life even easier, there's also a WordPress plugin to add quotes directly to your site!
