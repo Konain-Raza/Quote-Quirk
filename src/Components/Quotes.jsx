@@ -18,6 +18,7 @@ function Quotes() {
 
   const getQuotes = async () => {
     setIsLoading(true);
+    setQuote("");
     const url = `https://api.api-ninjas.com/v1/quotes?category=${category}`;
 
     try {
@@ -40,7 +41,7 @@ function Quotes() {
   return (
     <div id="quotesBox">
      <div className="min-h-screen flex items-center justify-center p-4 sm:p-8">
-  <div className="bg-white p-4 sm:p-8 rounded-3xl shadow-lg max-w-md w-full relative">
+  <div className="quote-box p-4 sm:p-8 rounded-3xl shadow-lg max-w-md w-full relative">
 
           <h1 className="text-4xl font-semibold mb-6 text-center">
             Random Quote's 
@@ -50,7 +51,7 @@ function Quotes() {
           </div>
           {!loading && (
             <>
-              <p className="text-gray-900 mb-4">{quote.quote}</p>
+              <p className="text-black-1000 mb-4">{quote.quote}</p>
               <div id="btns">
                 <button className="copy" onClick={copyToClipboard}>
                   <span
