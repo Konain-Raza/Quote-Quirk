@@ -31,7 +31,7 @@ Getting Quote Quirk up and running is a breeze:
 
 ### WordPress Plugin:
 
-1. **Download**: Grab the plugin **[here]([https://randomquotes-generator.vercel.app](https://randomquotes-generator.vercel.app))**. 📥  
+1. **Download**: Grab the plugin **[here](https://github.com/Konain-Raza/Quote-Quirk/blob/master/QuoteQuirk.zip)**. 📥 
 2. **Install**: Upload the plugin to your WordPress site and activate it. 🛠️  
 3. **Configure**: Follow the simple instructions to start displaying quotes on your site. 📝  
 
