@@ -6,10 +6,10 @@ const Routes = require("./routes/routes");
 app.use(express.json());
 app.use("/", Routes);
 
-const runServer = () => {
+const startServer = () => {
   app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
   });
 };
 
-runServer();
+startServer();
